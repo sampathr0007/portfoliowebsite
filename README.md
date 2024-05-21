@@ -3,3 +3,6 @@
 In this website i have showcased my experiences and my past accomplishments.
 Do visit.
 
+
+https://sampathreddy.netlify.app
+
